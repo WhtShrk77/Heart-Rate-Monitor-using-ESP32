@@ -49,10 +49,13 @@ A real-time heart rate monitoring system using ESP32, pulse sensor, OLED display
 - **Low Alert**: &lt; 50 bpm
 - **High Alert**: &gt; 120 bpm (triggers relay + LED)
 
+## Images
+- ### Circuit
+  ![Circuit Diagram](./circuit.png)
+- ### Blynk Dashboard
+  ![Blynk Dashboard](./Blynkdashboard.png)
+
 ## Simulation
 
 [View on Wokwi](https://wokwi.com/projects/408299128629093377)
 
-## License
-
-MIT
