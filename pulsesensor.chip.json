@@ -1,0 +1,20 @@
+{
+  "name": "pulsesensor",
+  "author": "Vaisakh Melaveetil",
+  "pins": [
+    "VCC",
+    "GND",
+    "IN",
+    "OUT"
+  ],
+  "controls": [
+    {
+      "id": "heartRate",
+      "label": "Heart Rate",
+      "type": "slider",
+      "min": 40,
+      "max": 200,
+      "step": 1
+    }
+  ]
+}
